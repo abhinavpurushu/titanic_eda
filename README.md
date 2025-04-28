@@ -1,4 +1,3 @@
-# titanic_eda
 # Titanic Dataset Exploratory Data Abalysis
 
 ## Overview
