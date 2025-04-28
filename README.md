@@ -10,8 +10,20 @@ Source: Titanic dataset from Kaggle.
 ## Files
 Titanic_Dataset.csv: The original dataset
 
-## steps covered
-Used Python and the libraries ﻿pandas, matplotlib, scikit-learn and seaborn in Jupyter Notebook. Generated summary statistics (mean, median, std, etc.). Created histograms and boxplots for numeric features. Used pairplot matrix and correlation matrix for feature relationships. Identified patterns, trends, or anomalies in the data. Made basic feature-level inferences from visuals.
+## Steps Covered
+1. Used Python and imported the necessary libraries ﻿in Jupyter Notebook. 
+
+2. Loaded and preprocessed the dataset
+
+3. Generated summary statistics (mean, median, std, etc.).
+
+4. Created histograms and boxplots for numeric features. 
+
+5. Used pairplot matrix and correlation matrix for feature relationships.
+
+6. Identified patterns, trends, or anomalies in the data.
+
+7. Made basic feature-level inferences from visuals.
 
 ## Results
 Higher-class passengers (1st class) and females have higher survival rates. 
