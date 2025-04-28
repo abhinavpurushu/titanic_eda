@@ -10,7 +10,7 @@ Source: Titanic dataset from Kaggle.
 ## Files
 Titanic_Dataset.csv: The original dataset
 
-## Analysis steps and usage
+## steps covered
 Used Python and the libraries ﻿pandas, matplotlib, scikit-learn and seaborn in Jupyter Notebook. Generated summary statistics (mean, median, std, etc.). Created histograms and boxplots for numeric features. Used pairplot matrix and correlation matrix for feature relationships. Identified patterns, trends, or anomalies in the data. Made basic feature-level inferences from visuals.
 
 ## Results
